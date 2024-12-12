@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="flex flex-col md:flex-row w-full lg:mt-24 md:mt-24">
       {/* Image Section */}
       <div
-        className="bg-cover bg-center ml-2 h-[250px] sm:h-[300px] md:h-[450px] lg:h-[500px] xl:h-[600px] order-1 w-full md:w-7/12"
+        className="bg-cover bg-center h-[250px] sm:h-[300px] md:h-[450px] lg:h-[500px] xl:h-[600px] order-1 w-full md:w-7/12"
         style={{
           backgroundImage:
             "url('/images/Exquisite-Dubai-restaurant-fitout-with-statement-lighting-interior-design-solutions-Downtown-Dubai.jpg')",
@@ -72,7 +72,7 @@ const Hero = () => {
             it hosts business people and individuals interested in 
             high-end design as well as functionality.
           </p>
-          <h2 className="text-lg text-[#b89564] font-bold mb-4">
+          <h2 className="text-lg text-start text-[#9c733c] font-bold mb-4">
             INTERIOR DESIGN COMPANY DUBAI - WE DO DESIGN & FITOUT
           </h2>
           <p className="text-sm lg:text-base xl:text-lg text-start leading-relaxed">
@@ -84,7 +84,9 @@ const Hero = () => {
             interior fit-out work or efficient fit-out work for an
             office, retail space, or residence, we ensure seamless
             execution and outstanding results.
-            <br></br>
+            <h3 className="text-lg text-start text-[#9c733c] font-bold mb-4">
+            BEST INTERIOR DESIGN COMPANY IN BUSINESS BAY DUBAI
+          </h3>
             As the Best Interior Design Company in Business Bay Dubai,
             we work from detailed planning to flawless implementation
             of interior fit-out for every project we undertake. Be a part
