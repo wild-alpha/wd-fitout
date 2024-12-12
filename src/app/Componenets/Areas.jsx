@@ -24,16 +24,13 @@ const Areas = () => {
       className="w-full rounded-t-3xl md:rounded-lg lg:rounded-tl-5xl lg:rounded-tr-none lg:rounded-none lg:rounded-l-5xl hover:transform hover:-translate-y-2 transition-transform duration-500 opacity-50"
       style={{ borderTopLeftRadius: '2rem' }}
     />
-    <div className="absolute top-32 lg:top-48 bottom-8 left-0 w-full flex items-center justify-center">
+    <div className="absolute top-32 lg:top-48 bottom-10 left-0 w-full flex items-center justify-center">
       <div className="flex-grow mb-20">
         <p className="text-white text-sm text-left px-4">
         As one of the best Interior Design Companies in Dubai,
          we are skilled in transforming spaces in Jumeirah Beach 
          Residence into gorgeous and luxurious surroundings with 
-         the help of new ceiling design & modern gate design. 
-         Whether it’s the villa or chic apartments, our knowledge 
-         of Interior Design Dubai team expands a wide range of styles to
-         suit the distinct preferences of our cherished clients.</p>
+         the help of new ceiling.</p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
          JUMEIRAH BEACH RESIDENCE
@@ -53,17 +50,13 @@ const Areas = () => {
       width={700}
       height={300}
       className="w-full hover:transform hover:-translate-y-2 transition-transform duration-500 opacity-50"/>
-    <div className="absolute top-32 lg:top-48 bottom-12 left-0 w-full flex items-center justify-center">
+    <div className="absolute top-32 lg:top-48 bottom-10 left-0 w-full flex items-center justify-center">
       <div className="flex-grow mb-20">
         <p className="text-white text-sm text-left px-4">
         Dubai Hill is known for its elite living and beauty, 
         and our Interior Design services of the best Interior
          Designing Company in Dubai are here to enhance the 
-         elegance of this area. We are skilled in creating bold 
-         bespoke design that combine functionality with style, 
-         ensuring whatever we design should be a true reflection
-          of the client's thoughts and personality. We will prov
-          e ourself that we are one of best interior companies in Dubai										
+         elegance of this area. We are skilled in creating bold 										
         </p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
@@ -76,7 +69,7 @@ const Areas = () => {
 </div>
 
 <div className="w-full sm:w-1/3 sm:px-2 mb-4 sm:mb-4 relative">
-<Link href={"/commercial-interior-design/meby-tourism"}>
+<Link href={"/business-bay-interior-design"}>
     <Image
       src="/images/dubai-retailer-office-reception-business-bay-dubai.webp"
       alt="Modern retailer office reception in Business Bay Dubai with marble table, wood accent wall, and glass wall."
@@ -84,15 +77,13 @@ const Areas = () => {
       width={700}
       height={300}
       className="w-full lg:rounded-tr-3xl hover:transform hover:-translate-y-2 transition-transform duration-500 opacity-50"/>
-    <div className="absolute top-32 lg:top-48 bottom-0 left-0 w-full flex items-center justify-center">
+    <div className="absolute top-32 lg:top-48 bottom-10 left-0 w-full flex items-center justify-center">
       <div className="flex-grow mb-20">
         <p className="text-white text-sm text-left px-4">
         Business Bay is a huge hub of business and living,and 
         our interior design company Dubai excels in designing 
         the spaces which fulfill the requirements of this area. 
-        Our interior design team is expert in designing modern 
-        and functional interiors that match the standards of 
-        office interior design of business bay property.
+        Our interior design team is expert in designing
         </p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
@@ -121,9 +112,7 @@ const Areas = () => {
         Emirates Hill Dubai  is synonymous with luxury and exclusivity,
          and our interior design services as a  best interior design company 
          are designed to match the high standards of this elite community. 
-         We provide customized design solutions for the villa and residences.
-          Our expert designers are committed to turning your Emirates Hill 
-        Dubai property into best interior design dubai.										
+         We 										
         </p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
@@ -144,14 +133,13 @@ const Areas = () => {
       width={700}
       height={300}
       className="w-full hover:transform hover:-translate-y-2 transition-transform duration-500 "/>
-    <div className="absolute top-32 lg:top-48 bottom-0 left-0 w-full flex items-center justify-center">
+    <div className="absolute top-32 lg:top-48 bottom-10 left-0 w-full flex items-center justify-center">
       <div className="flex-grow mb-20">
         <p className="text-white text-sm text-left px-4">
         Down town Dubai is the essence of urban grace, and our 
         interior design company in Dubai is dedicated to enhancing 
         this area with our extraordinary interior design services.
-         Our designs are tailored to reflect the modern lifestyle of Down town Dubai,
-         ensuring your space is a perfect blend of luxury and functionality.										
+         Our designs are tailored to										
         </p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
@@ -179,9 +167,7 @@ const Areas = () => {
         <p className="text-white text-sm text-left px-4">
         Dubai Creek Harbor is a unique combination of tradition and modernism,
          and our interior design company provides the best interior design dubai 
-         services and aims to reflect its essence in every project. We provide
-          bespoke home interior design and commercial spaces, we focus on innovative designs 
-        that reflect the area's rich culture history with modern charm.										
+         services and aims to reflect its essence in every project.									
         </p>
         <div className="px-2">
         <h3 className="text-[#121212] text-lg lg:text-lg font-semibold text-center bg-gray-200 bg-opacity-50 py-1.5 mt-10 lg:mt-20 hover:text-[#c38d90]">
