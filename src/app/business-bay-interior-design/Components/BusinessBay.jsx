@@ -50,11 +50,11 @@ const BusinessBay = () => {
   };
 
   return (
-    <section id="#atlantis" className="container mx-auto mt-24 px-2">
+    <section id="#businessbay" className="container mx-auto mt-10 px-0">
       <div className="atlantis">
         <div className="flex flex-wrap justify-center">
           {imageUrls.map((image, index) => (
-            <div key={index} className="w-full mb-4 sm:mb-4 relative sm:w-1/4">
+            <div key={index} className="w-full mb-4 sm:mb-4 relative sm:w-1/4 px-2">
               <Image
                 src={image.src}
                 alt={image.alt}

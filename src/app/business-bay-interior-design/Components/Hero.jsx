@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="flex flex-col md:flex-row w-full lg:mt-24 md:mt-24">
       {/* Image Section */}
       <div
-        className="bg-cover bg-center h-[250px] sm:h-[300px] md:h-[450px] lg:h-[500px] xl:h-[600px] order-1 w-full md:w-7/12"
+        className="bg-cover bg-center ml-2 h-[250px] sm:h-[300px] md:h-[450px] lg:h-[500px] xl:h-[600px] order-1 w-full md:w-7/12"
         style={{
           backgroundImage:
             "url('/images/Exquisite-Dubai-restaurant-fitout-with-statement-lighting-interior-design-solutions-Downtown-Dubai.jpg')",
